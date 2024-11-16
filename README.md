@@ -3,7 +3,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nandhiraja;AI+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Bots&color=white" alt="Typing SVG" />
     </a>
 </p>
-
+  
 </br>
 
 <p align="center">
