@@ -1,38 +1,80 @@
 <p align="center">
     <a href="https://github.com/nandhiraja">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nandhiraja;AI+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Bots&color=white" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=3000&pause=500&color=36BCF7&center=true&width=500&lines=Hello,+I'm+Nandhiraja;AI+Enthusiast+and+Data+Scientist" alt="Typing SVG"/>
     </a>
 </p>
-  
-</br>
+
+
+<h2 align="center">About Me</h2>
+<p align="center">I am an AI student passionate about exploring innovative solutions in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and building intelligent systems. I enjoy solving complex problems and continuously learning cutting-edge technologies.</p>
+<ul>
+    <li>📚 Currently learning: Advanced Deep Learning and AI Agents</li>
+    <li>📧 Reach me: <a href="mailto:nandhiraja16@gmail.com">nandhiraja16@gmail.com</a></li>
+</ul>
+
+<h2 align="center">Connect with Me</h2>
+<ul align="center" style="list-style-type: none;">
+    <a href="https://linkedin.com/in/nandhiraja-k-034501247" target="_blank">LinkedIn__</a>
+    <a href="https://kaggle.com/nandhirajak" target="_blank">__Kaggle__</a>
+    <a href="https://www.hackerrank.com/nandhiraja16" target="_blank">__HackerRank</a>
+</ul>
+
+<p>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------
+</p>
 
 <p align="center">
     <a href="https://github.com/nandhiraja">
-        <img src="https://github-stats-alpha.vercel.app/api?username=nandhiraja&cc=22272e&tc=ffdd57&ic=1f77b4&bc=0000">
+        <img src="https://github-stats-alpha.vercel.app/api?username=nandhiraja&cc=2C2F33&tc=00D4FF&ic=F0DB4F&bc=1A1C20" alt="GitHub Stats"/>
     </a>
 </p>
 
 
 
+<h2 align="center">Languages and Tools</h2>
+<table align="center" style="width: 90%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #1A1C20; color: #00D4FF;">
+      <th style="text-align: left; padding: 12px;">Domain</th>
+      <th style="text-align: left; padding: 12px;">Tools / Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #2C2F33; color: #FFFFFF;">
+      <td style="padding: 10px;">Programming Languages</td>
+      <td style="padding: 10px;">Python, Java, HTML, CSS</td>
+    </tr>
+    <tr style="background-color: #1A1C20; color: #FFFFFF;">
+      <td style="padding: 10px;">Data Science & ML</td>
+      <td style="padding: 10px;">Pandas, Scikit-Learn, TensorFlow, PyTorch</td>
+    </tr>
+    <tr style="background-color: #2C2F33; color: #FFFFFF;">
+      <td style="padding: 10px;">Big Data & Databases</td>
+      <td style="padding: 10px;">MySQL</td>
+    </tr>
+    <tr style="background-color: #1A1C20; color: #FFFFFF;">
+      <td style="padding: 10px;">Cloud & Containers</td>
+      <td style="padding: 10px;">Google Cloud, Docker</td>
+    </tr>
+    <tr style="background-color: #2C2F33; color: #FFFFFF;">
+      <td style="padding: 10px;">Version Control</td>
+      <td style="padding: 10px;">Git</td>
+    </tr>
+    <tr style="background-color: #1A1C20; color: #FFFFFF;">
+      <td style="padding: 10px;">Mathematical Computing</td>
+      <td style="padding: 10px;">MATLAB, OpenCV</td>
+    </tr>
+  </tbody>
+</table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhiraja&label=Profile%20views&color=0e75b6&style=flat" alt="nandhiraja" /> </p>
-
-- Currently learning    **Deep Learning and AI agents**
-
-- To reach me  📫     **nandhiraja16@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nandhiraja-k-034501247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandhiraja-k-034501247/" height="30" width="40" /></a>
-<a href="https://kaggle.com/nandhirajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nandhirajak" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nandhiraja16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nandhiraja16" height="30" width="40" /></a>
+<h2 align="center">Quick Stats</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandhiraja&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhiraja&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandhiraja&show_icons=true&locale=en&layout=compact" alt="nandhiraja" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandhiraja&" alt="nandhiraja" /></p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nandhiraja&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
