@@ -23,7 +23,7 @@
 
 ---
 
-<h2 align="center">Quick Stats</h2>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandhiraja&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
