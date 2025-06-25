@@ -1,147 +1,161 @@
-# 🤖 Nandhiraja K
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=NANDHIRAJA&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Visionary%20%7C%20Data%20Scientist%20%7C%20Innovation%20Architect&descAlignY=55&descAlign=50&descSize=18"/>
+</div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=80&lines=AI+Enthusiast+%26+Data+Scientist;Building+Intelligent+Systems;Exploring+ML+%26+Deep+Learning;Turning+Data+into+Insights)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&height=60&lines=🚀+Building+Tomorrow's+AI+Today;🧠+Transforming+Data+into+Intelligence;💡+Crafting+Intelligent+Solutions;🎯+Passionate+Problem+Solver)
 
 </div>
 
 ---
 
+## 🌟 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+### Hey there! 👋 I'm Nandhiraja
+
+I'm a passionate **AI enthusiast** and **Data Scientist** who believes in the power of artificial intelligence to transform our world. Currently diving deep into the realms of **Machine Learning** and **Deep Learning**, I'm on a mission to create intelligent systems that solve real-world problems.
+
+**What drives me:**
+- 🎯 **Problem-solving** through innovative AI solutions
+- 📊 **Data storytelling** that reveals hidden insights  
+- 🤖 **Building intelligent systems** that make a difference
+- 🌱 **Continuous learning** in cutting-edge technologies
+- 🚀 **Exploring the boundaries** of what's possible with AI
+
+**Currently exploring:**
+- Advanced Neural Network Architectures
+- Computer Vision & Image Processing
+- Natural Language Processing
+- MLOps & Model Deployment
+- Generative AI & Large Language Models
+
+</td>
+<td width="40%">
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20Digital%20Lab&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Where%20AI%20meets%20Innovation&descAlignY=51&descAlign=50"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+  
+  <br><br>
+  
+ 
 </div>
 
-## 🧠 About Me
+</td>
+</tr>
+</table>
 
-```python
-class AIEnthusiast:
-    def __init__(self):
-        self.name = "Nandhiraja K"
-        self.role = "AI Student & Data Scientist"
-        self.location = "Tamil Nadu, India"
-        self.interests = ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"]
-        self.current_focus = "Building intelligent systems that solve real-world problems"
-        self.learning = ["Advanced Neural Networks", "MLOps", "Generative AI"]
-    
-    def get_daily_routine(self):
-        return {
-            "morning": "☕ Coffee + Research papers",
-            "afternoon": "💻 Coding & Model Training",
-            "evening": "📊 Data Analysis & Visualization",
-            "night": "🤔 Planning tomorrow's innovations"
-        }
-```
+---
 
-## 🚀 What I'm Working On
+## 🔥 What I'm Building
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3>🔥 Current Projects</h3>
-        <ul>
-          <li>🤖 Advanced Computer Vision Models</li>
-          <li>📈 Predictive Analytics Systems</li>
-          <li>🧠 Neural Network Architectures</li>
-          <li>📊 Data Science Pipelines</li>
-        </ul>
+      <td align="center" width="33%">
+<!--         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/> -->
+        <h3>🤖 AI Models</h3>
+        <p>Developing cutting-edge machine learning models for real-world applications</p>
       </td>
-      <td width="50%">
-        <h3>🎯 Learning Goals</h3>
-        <ul>
-          <li>🔬 Transformer Architectures</li>
-          <li>☁️ Cloud-based ML Solutions</li>
-          <li>🚀 MLOps & Model Deployment</li>
-          <li>🤝 Collaborative AI Systems</li>
-        </ul>
+      <td align="center" width="33%">
+<!--         <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80"/> -->
+        <h3>📊 Data Insights</h3>
+        <p>Transforming raw data into actionable business intelligence</p>
+      </td>
+      <td align="center" width="33%">
+<!--         <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80"/> -->
+        <h3>🚀 Innovation</h3>
+        <p>Creating intelligent systems that push technological boundaries</p>
       </td>
     </tr>
   </table>
 </div>
 
-## 🛠️ Tech Arsenal
+---
+
+## 🛠️ My Tech Universe
 
 <div align="center">
 
-### 🐍 Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🐍 **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
 
-### 🤖 AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+### 🤖 **AI & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-### 📊 Data Science Stack
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🎨 **Data Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### 🗄️ **Database & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git" />
+</p>
+
+### 🌐 **Development Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,linux,nodejs,github" />
+</p>
 
 </div>
 
-## 📊 GitHub Analytics
+
+
+---
+
+## 🌐 Let's Connect & Build the Future Together
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandhiraja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhiraja&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhiraja&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-## 🏆 Achievement Showcase
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandhiraja&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhiraja&theme=tokyo-night&hide_border=true"/>
-</div>
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandhiraja-k-034501247)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/nandhirajak)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhiraja16@gmail.com)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nandhiraja16)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/nandhiraja_k)
-
+  <p>
+    <a href="https://linkedin.com/in/nandhiraja-k-034501247">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+    </a>
+    <a href="https://kaggle.com/nandhirajak">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=20BEFF" />
+    </a>
+    <a href="mailto:nandhiraja16@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+    </a>
+  </p>
+  <p>
+    <a href="https://www.hackerrank.com/nandhiraja16">
+      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=2EC866" />
+    </a>
+    <a href="https://www.leetcode.com/nandhiraja_k">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116" />
+    </a>
+  </p>
 </div>
 
 ---
 
 <div align="center">
   
-  ### 💭 Random Developer Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
   
-  ### 🎵 Currently Coding To
-  [![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/nandhiraja)
+  <h3>🚀 "The future belongs to those who learn more skills and combine them in creative ways." - Robert Greene</h3>
   
-  ---
+  <br>
   
-  **"The best way to predict the future is to create it."** - Peter Drucker
-  
-  ![Visitor Count](https://profile-counter.glitch.me/nandhiraja/count.svg)
+  <img src="https://komarev.com/ghpvc/?username=nandhiraja&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
   
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn"/>
 </div>
