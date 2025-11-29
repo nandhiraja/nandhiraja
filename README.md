@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=NANDHIRAJA&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Visionary%20%7C%20Data%20Scientist%20%7C%20Innovation%20Architect&descAlignY=55&descAlign=50&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:480af2,100:8c25f5&height=200&section=header&text=NANDHIRAJA&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Visionary%20%7C%20Data%20Scientist%20%7C%20Innovation%20Architect&descAlignY=55&descAlign=50&descSize=18"/>
 </div>
 
 ---
@@ -63,5 +63,5 @@ Generative AI** with a focus on creating impactful and scalable solutions.
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b510de,100:480af2&height=120&section=footer&animation=fadeIn"/>
 </div>
